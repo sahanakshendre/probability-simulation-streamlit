@@ -1,0 +1,15 @@
+                          PROBABILITY SIMULATOR APP
+
+The simulation converges to the true probability because of a mathematical principle called the Law of Large Numbers.
+
+In probability experiments like coin toss or dice roll, each outcome is random. In a small number of trials, results may vary significantly due to randomness. However, as the number of trials increases, the randomness averages out.
+
+This means that the relative frequency of an outcome (experimental probability) becomes closer to its actual probability (theoretical probability).
+
+For example, in a fair coin toss:
+
+Theoretical probability of heads = 0.5
+In 10 trials → may get 7 heads (0.7)
+In 1000 trials → will be close to 0.5
+
+Thus, increasing the number of simulations leads to more accurate probability estimation.
